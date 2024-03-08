@@ -1,0 +1,17 @@
+I Need to Call the Following Api (https://www.boredapi.com/api/activity)
+and Validate Response Code
+
+1- I Navigate to URL of Website
+2- I Enter Valid user Name and Password
+3- I Click on Login button
+4- I Click on Add Course button
+5- I Fill Mandatory Information
+6- Then I Check Course is Created
+
+Notes:
+I am use Maven, Rest assured, Cucumber and Java.
+
+Maven Dependency:
+1- Rest Assured
+2- Cucumber
+3- Junit
